@@ -1,0 +1,11 @@
+{
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon script.js"
+  },
+  "dependencies": {
+    "jest": "^29.5.0",
+    "nodemon": "^2.0.22"
+  }
+}
